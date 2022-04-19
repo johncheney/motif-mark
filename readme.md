@@ -6,7 +6,7 @@ Hello!
 
 Welcome to John's motif-mark code! 
 
-This code is used to identify protein binding motifs in a gene. 
+This code is used to identify and visualize protein binding motifs in a gene. 
 
 To use this code simply clone this repo and call:
 
